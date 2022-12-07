@@ -24,9 +24,13 @@ Ele é um separador ele vai colocar o que você digitar entre aspas para separar
 
 Exemplo do sep:
 
-print("Brasil","ganhou",5,"títulos mundiais",sep="-")
+#declaranfo variáveis
+dia = 15
+mes = 10
+ano = 2015
+print(dia, mes, ano, sep="/") #printando utilizando o sep (separador) aqui definido como /
 
-saída = Brasil-ganhou-5-títulos mundiais
+saída = 15/10/2015
 
 Explicando o end:
 
