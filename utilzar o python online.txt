@@ -1,0 +1,3 @@
+Também conseguimos utilizar o Python sem instalá-lo na nossa máquina, executando-o através de um serviço na web. Há vários sites que disponibilizam esse serviço, entre eles o repl.it. Nele podemos programar em várias linguagens, para começar basta clicar em Start coding now! e escolher o Python3.
+
+https://replit.com/~

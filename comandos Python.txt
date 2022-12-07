@@ -1,0 +1,19 @@
+Utilizei o Python 3.5.2
+
+caminho onde foi instalado o Python
+
+C:\Users\david\AppData\Local\Programs\Python\Python35
+
+python -V (importante o "V" deve ser maiúsculo, para buscar o número da versão)
+
+no cmd para mudar para o python, basta digitar python e dar enter, você entrará para digitar comandos python a partir do terminal
+
+todas funções no python tem dois parenteses exemplo print()
+
+help() (para mostrar a documentação. Após digitar help você pode digitar o nome do comando que você quer ler sobre, exemplo se digitarmos help depois dermos enter e depois digitarmos print teremos todas as informações sobre a função print, mostrando como podemos utilizar
+
+
+
+
+
+
