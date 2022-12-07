@@ -12,8 +12,55 @@ todas funções no python tem dois parenteses exemplo print()
 
 help() (para mostrar a documentação. Após digitar help você pode digitar o nome do comando que você quer ler sobre, exemplo se digitarmos help depois dermos enter e depois digitarmos print teremos todas as informações sobre a função print, mostrando como podemos utilizar
 
+O Python utiliza por convenção o padrão Snake_Case para nomes de variáveis (ou identificadores), que é o _ para dividir as variáveis, exemplo: nome_completo
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-Função print()
 
+print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False)
 
+Explicando o sep:
+Ele é um separador ele vai colocar o que você digitar entre aspas para separar
+
+Exemplo do sep:
+
+print("Brasil","ganhou",5,"títulos mundiais",sep="-")
+
+saída = Brasil-ganhou-5-títulos mundiais
+
+Explicando o end:
+
+o end ele declara o que será feito ao final do comando print
+
+Exmplo do end:
+
+print("Brasil ganhou 5 títulos mundiais", end="\n")
+Neste exemplo após o comando print, irá pular uma linha
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Podemos definir uma variável e depois utiliza-la com o comando print
+
+Exemplo:
+
+pais = "Italia"
+
+print("Um dos países com 4 copas do mundo é a",pais)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Para verificarmos o tipo da variável utilizamos o type()
+
+Exemplo:
+
+entrada:
+
+type(nome_da_variavel)
+
+saída:
+
+class 'str' 
+
+ou seja 'str' é uma string
 
 
